@@ -1,2 +1,2 @@
 # hello-world
-This repository follows the hello-world tutorial for learning GitHub
+A bit about myself: I'm a student at CPCC taking a beginner software development class as well as learning python.
